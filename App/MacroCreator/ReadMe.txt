@@ -1,4 +1,4 @@
-Pulover's Macro Creator v4.1.1 Portable Edition
+Pulover's Macro Creator v4.1.2 Portable Edition
 ===============================================
 
 Thank you for downloading Pulover's Macro Creator.
