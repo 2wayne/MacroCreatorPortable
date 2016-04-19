@@ -13,9 +13,19 @@ ${Segment.OnInit}
 !macroend
 
 ${SegmentInit}
-	${If} $Bits = 64
-		${SetEnvironmentVariablesPath} FullAppDir $EXEDIR\App\MacroCreator64			
-	${Else}
-		${SetEnvironmentVariablesPath} FullAppDir $EXEDIR\App\MacroCreator
+	${If} $Bits == 64
+		Rename "$EXEDIR\App\MacroCreator\MacroCreator.exe" "$EXEDIR\App\MacroCreator\MacroCreator32.exe"
+		Rename "$EXEDIR\App\MacroCreator\MacroCreator64.exe" "$EXEDIR\App\MacroCreator\MacroCreator.exe"
+		Rename "$EXEDIR\App\MacroCreator\SciLexer.dll" "$EXEDIR\App\MacroCreator\SciLexer32.dll"
+		Rename "$EXEDIR\App\MacroCreator\SciLexer64.dll" "$EXEDIR\App\MacroCreator\SciLexer.dll"
 	${EndIf}
+!macroend
+
+${SegmentPost}
+	${If} $Bits == 64
+		Rename "$EXEDIR\App\MacroCreator\MacroCreator.exe" "$EXEDIR\App\MacroCreator\MacroCreator64.exe"
+		Rename "$EXEDIR\App\MacroCreator\MacroCreator32.exe" "$EXEDIR\App\MacroCreator\MacroCreator.exe"
+		Rename "$EXEDIR\App\MacroCreator\SciLexer.dll" "$EXEDIR\App\MacroCreator\SciLexer64.dll"
+		Rename "$EXEDIR\App\MacroCreator\SciLexer32.dll" "$EXEDIR\App\MacroCreator\SciLexer.dll"
+	${EndIf}	
 !macroend
