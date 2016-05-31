@@ -121,25 +121,26 @@
 	v_Lang005 =	&Preview
 	v_Lang006 =	&Toolbar
 	v_Lang007 =	&Hotkeys
-	v_Lang008 =	Ba&r Pencarian
-	v_Lang009 =	&Ulang Kolom Ukuran
-	v_Lang010 =	Ukura&n Ikon
-	v_Lang011 =	Atur Ulan&g Tata Letak
-	v_Lang012 =	B&erkas
-	v_Lang013 =	Reka&m dan Putar
-	v_Lang014 =	Per&intah
-	v_Lang015 =	Menge&dit
-	v_Lang016 =	Pilihan
-	v_Lang017 =	&Sesuaikan
-	v_Lang018 =	&Otomatis
-	v_Lang019 =	Pedoman
-	v_Lang020 =	Berhenti
-	v_Lang021 =	Berhenti sebentar
-	v_Lang022 =	&Padat
-	v_Lang023 =	P&aling Cocok
-	v_Lang024 =	&Kegagalan
-	v_Lang025 =	Ke&cil
-	v_Lang026 =	Besar
+	v_Lang008 =	P&utaran
+	v_Lang009 =	Ba&r Pencarian
+	v_Lang010 =	Ula&ng Kolom Ukuran
+	v_Lang011 =	Ukuran &Ikon
+	v_Lang012 =	Atur Ulan&g Tata Letak
+	v_Lang013 =	B&erkas
+	v_Lang014 =	Reka&m dan Putar
+	v_Lang015 =	Per&intah
+	v_Lang016 =	Menge&dit
+	v_Lang017 =	Pilihan
+	v_Lang018 =	&Sesuaikan
+	v_Lang019 =	&Bermain
+	v_Lang020 =	&Pedoman
+	v_Lang021 =	B&erhenti
+	v_Lang022 =	Be&rhenti sebentar
+	v_Lang023 =	&Padat
+	v_Lang024 =	P&aling Cocok
+	v_Lang025 =	&Kegagalan
+	v_Lang026 =	Ke&cil
+	v_Lang027 =	Besar
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Pengaturan
@@ -774,6 +775,7 @@
 	t_Lang214 =	Delay kunci
 	t_Lang215 =	Delay tikus
 	t_Lang216 =	Kontrol delay
+	t_Lang217 =	Tambahan
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Buka
@@ -790,7 +792,7 @@
 		Tim alamat atau nama file yang dipilih tidak valid..
 	d_Lang011 =	Peringatan
 	d_Lang012 =	Tidak ada kontrol yang dipilih.
-		Teruskan?
+		Terus?
 	d_Lang013 =	Ekspor Script
 	d_Lang014 =	Script Diekspor
 	d_Lang015 =	File tersebut berhasil diekspor!
@@ -876,7 +878,7 @@
 	d_Lang082 =	Berkas tidak ditemukan!
 	d_Lang083 =	Sebuah file cadangan telah ditemukan. Apakah Anda ingin membukanya?
 	d_Lang084 =	Harap menyimpan perubahan sebelum penjadwalan tugas.
-	d_Lang085 =	Hilang "End Loop" pernyataan dalam Makro 
+	d_Lang085 =	Hilang "End Loop" pernyataan dalam Makro
 	d_Lang086 =	Hilang "End If" pernyataan dalam Makro
 	d_Lang087 =	Perhatikan bahwa perubahan yang dibuat untuk script luar program TIDAK AKAN MEMPENGARUHI macro ANDA dengan cara apapun.
 		Fitur ini hanya dimaksudkan sebagai fungsi ekspor cepat. PMC tidak dirancang untuk menjadi editor skrip AHK.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Fungsi duplikat.
 	d_Lang102 =	Terjadi kesalahan. Anda dapat mengirim email ke 'pulover@macrocreator.com' dengan file:
 	d_Lang103 =	Bahasa baru mengajukan tersedia.
+		Unduh sekarang?
 	d_Lang104 =	Pesan ini tidak akan ditampilkan lagi untuk update yang sama. Anda dapat men-download dari menu Help > Periksa pembaruan.
 	d_Lang105 =	File berhasil dikirim. Terima kasih!
 	d_Lang106 =	File bahasa diperbarui berhasil.

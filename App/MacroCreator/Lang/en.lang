@@ -121,25 +121,26 @@
 	v_Lang005 =	&Preview
 	v_Lang006 =	&Toolbars
 	v_Lang007 =	H&otkeys
-	v_Lang008 =	Search &Bar
-	v_Lang009 =	&Reset Columns Size
-	v_Lang010 =	&Icons Size
-	v_Lang011 =	R&eset Layout
-	v_Lang012 =	&File
-	v_Lang013 =	&Record  Play
-	v_Lang014 =	&Commands
-	v_Lang015 =	&Edit
-	v_Lang016 =	&Options
-	v_Lang017 =	C&ustomize
-	v_Lang018 =	&Automatic
-	v_Lang019 =	&Manual
-	v_Lang020 =	&Stop
-	v_Lang021 =	&Pause
-	v_Lang022 =	&Compact
-	v_Lang023 =	&Best Fit
-	v_Lang024 =	&Default
-	v_Lang025 =	&Small
-	v_Lang026 =	&Large
+	v_Lang008 =	&Loop
+	v_Lang009 =	Search &Bar
+	v_Lang010 =	&Reset Columns Size
+	v_Lang011 =	&Icons Size
+	v_Lang012 =	R&eset Layout
+	v_Lang013 =	&File
+	v_Lang014 =	&Record and Play
+	v_Lang015 =	&Commands
+	v_Lang016 =	&Edit
+	v_Lang017 =	&Options
+	v_Lang018 =	C&ustomize
+	v_Lang019 =	Play
+	v_Lang020 =	&Manual
+	v_Lang021 =	&Stop
+	v_Lang022 =	&Pause
+	v_Lang023 =	&Compact
+	v_Lang024 =	&Best Fit
+	v_Lang025 =	&Default
+	v_Lang026 =	&Small
+	v_Lang027 =	&Large
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Settings
@@ -774,6 +775,7 @@
 	t_Lang214 =	Key delay
 	t_Lang215 =	Mouse delay
 	t_Lang216 =	Control delay
+	t_Lang217 =	Incremental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Open
@@ -905,6 +907,7 @@
 	d_Lang101 =	Duplicate function.
 	d_Lang102 =	An error occurred. You can send an email to 'pulover@macrocreator.com' with the file:
 	d_Lang103 =	New languages file available.
+		Download now?
 	d_Lang104 =	This message will not be shown again for the same update. You can download it from the Help menu > Check for updates.
 	d_Lang105 =	File sent successfully. Thank you!
 	d_Lang106 =	Language files updated successfully.

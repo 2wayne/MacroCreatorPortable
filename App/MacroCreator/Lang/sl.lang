@@ -121,25 +121,26 @@
 	v_Lang005 =	&Predogled
 	v_Lang006 =	Pan&ely Nástrojov
 	v_Lang007 =	&Klávesové Skratky
-	v_Lang008 =	&Iskanje Bar
-	v_Lang009 =	Pona&stavi stolpce Velikost
-	v_Lang010 =	Ve&likost Ikone
-	v_Lang011 =	&Reset Postavitev
-	v_Lang012 =	S&úbor
-	v_Lang013 =	Sne&manje in predvajanje
-	v_Lang014 =	Pr&íkazy
-	v_Lang015 =	E&ditovať
-	v_Lang016 =	Mo&žnosti
-	v_Lang017 =	Prila&gajanje
-	v_Lang018 =	Av&tomatski
-	v_Lang019 =	Ro&čni
-	v_Lang020 =	Stop
-	v_Lang021 =	Premor
-	v_Lang022 =	&Kompaktna
-	v_Lang023 =	&Najbolj Ustrezajo
-	v_Lang024 =	&Privzeto
-	v_Lang025 =	Ma&jhno
-	v_Lang026 =	Velika
+	v_Lang008 =	&Zanka
+	v_Lang009 =	&Iskanje Bar
+	v_Lang010 =	Pona&stavi stolpce Velikost
+	v_Lang011 =	Ve&likost Ikone
+	v_Lang012 =	&Reset Postavitev
+	v_Lang013 =	S&úbor
+	v_Lang014 =	Sne&manje in predvajanje
+	v_Lang015 =	Pr&íkazy
+	v_Lang016 =	E&ditovať
+	v_Lang017 =	Mo&žnosti
+	v_Lang018 =	Prila&gajanje
+	v_Lang019 =	&Igraj
+	v_Lang020 =	&Ročni
+	v_Lang021 =	&Stop
+	v_Lang022 =	&Premor
+	v_Lang023 =	&Kompaktna
+	v_Lang024 =	&Najbolj Ustrezajo
+	v_Lang025 =	&Privzeto
+	v_Lang026 =	Ma&jhno
+	v_Lang027 =	Velika
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Nastavitve
@@ -774,6 +775,7 @@
 	t_Lang214 =	Ključ zamudo
 	t_Lang215 =	Zamuda miške
 	t_Lang216 =	Nadzor zamudo
+	t_Lang217 =	inkrementalni
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Odprite
@@ -790,7 +792,7 @@
 		Skupina izbrani naslov ali ime datoteke je neveljavno.
 	d_Lang011 =	Opozorilo
 	d_Lang012 =	Izbrali nobenega nadzora.
-		Nadaljujem?
+		Naprej?
 	d_Lang013 =	Izvozi scenarij
 	d_Lang014 =	Scenarij Izvozni
 	d_Lang015 =	Datoteka je bila uspešno izvažajo!
@@ -876,7 +878,7 @@
 	d_Lang082 =	Datoteke ni bilo mogoče najti!
 	d_Lang083 =	Varnostna kopija je bila najdena. Bi radi, da jo odprete?
 	d_Lang084 =	Prosimo, shranite spremembe, preden načrtujete opravilo.
-	d_Lang085 =	Chýbajúce "End Loop" vyhlásenie v Makro 
+	d_Lang085 =	Chýbajúce "End Loop" vyhlásenie v Makro
 	d_Lang086 =	Chýbajúce "End If" vyhlásenie v Makro
 	d_Lang087 =	Obvestilo, da bodo spremembe v pisavi izven programa ne vpliva makre na kakršen koli način.
 		Táto funkcia je určená len k rýchlemu exportné funkcie. PMC nie je navrhnutý tak, aby editor AHK skript.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Dvojnik funkcija.
 	d_Lang102 =	Pojavila se je napaka. Lahko pošljete e-pošto na "pulover@macrocreator.com" z datoteko:
 	d_Lang103 =	Novi jeziki datoteko na voljo.
+		Prenesi zdaj?
 	d_Lang104 =	To sporočilo se ne bo znova pokazala za isto posodobitev. Lahko ga prenesete v meniju Pomoč > Preveri posodobitve.
 	d_Lang105 =	Datoteka poslana uspešno. Hvala!
 	d_Lang106 =	Jezikovne datoteke uspešno posodobljen.

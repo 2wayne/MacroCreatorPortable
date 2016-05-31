@@ -121,25 +121,26 @@
 	v_Lang005 =	&Visualización
 	v_Lang006 =	&Barras de ferramentas
 	v_Lang007 =	&Teclas de atallo
-	v_Lang008 =	B&uscar Bar
-	v_Lang009 =	C&olumnas Restaurar tamaño
-	v_Lang010 =	&Iconos Tamaño
-	v_Lang011 =	&Restaurar esquema
-	v_Lang012 =	Ar&quivo
-	v_Lang013 =	&Grave Tocar
-	v_Lang014 =	Co&mandos
-	v_Lang015 =	E&ditar
-	v_Lang016 =	O&pcións
-	v_Lang017 =	Per&sonaliza
-	v_Lang018 =	Autom&ático
-	v_Lang019 =	Ma&nual
-	v_Lang020 =	&Pare
-	v_Lang021 =	&Pausa
-	v_Lang022 =	&Compacto
-	v_Lang023 =	&Mellor Axuste
-	v_Lang024 =	&Defecto
-	v_Lang025 =	&Pequeno
-	v_Lang026 =	&Gran
+	v_Lang008 =	La&zo
+	v_Lang009 =	B&uscar Bar
+	v_Lang010 =	C&olumnas Restaurar tamaño
+	v_Lang011 =	&Iconos Tamaño
+	v_Lang012 =	&Restaurar esquema
+	v_Lang013 =	Ar&quivo
+	v_Lang014 =	&Grave Tocar
+	v_Lang015 =	Co&mandos
+	v_Lang016 =	E&ditar
+	v_Lang017 =	O&pcións
+	v_Lang018 =	Per&sonaliza
+	v_Lang019 =	&Xogar
+	v_Lang020 =	&Manual
+	v_Lang021 =	&Pare
+	v_Lang022 =	P&ausa
+	v_Lang023 =	&Compacto
+	v_Lang024 =	&Mellor Axuste
+	v_Lang025 =	&Defecto
+	v_Lang026 =	&Pequeno
+	v_Lang027 =	&Gran
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Configuración
@@ -774,6 +775,7 @@
 	t_Lang214 =	Atraso clave
 	t_Lang215 =	Atraso do rato
 	t_Lang216 =	Atraso de control
+	t_Lang217 =	incremental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Aberto
@@ -790,7 +792,7 @@
 		The შერჩეული მისამართი ან ფაილის სახელი არასწორია.
 	d_Lang011 =	Aviso
 	d_Lang012 =	Sen selected.
-		Continue?
+		Continuar?
 	d_Lang013 =	Export Script
 	d_Lang014 =	Script Exportados
 	d_Lang015 =	O ficheiro foi exportado con éxito!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Función duplicado.
 	d_Lang102 =	Houbo un erro. Pode enviar un correo electrónico para 'pulover@macrocreator.com' co arquivo:
 	d_Lang103 =	Arquivo dispoñible novas linguas.
+		Descargar agora?
 	d_Lang104 =	Esta mensaxe non se amosará novo á mesma actualización. Pode baixa-lo dende o menú Axuda> Comprobar actualizacións.
 	d_Lang105 =	Arquivo enviada correctamente. Grazas!
 	d_Lang106 =	Arquivos de idioma actualizado correctamente.

@@ -121,25 +121,26 @@
 	v_Lang005 =	&Förhandsgranska
 	v_Lang006 =	&Verktygsfält
 	v_Lang007 =	&Snabbtangenter
-	v_Lang008 =	S&ökfält
-	v_Lang009 =	&Återställ kolumner Storlek
-	v_Lang010 =	Ik&oner Storlek
-	v_Lang011 =	Å&terställ Layout
-	v_Lang012 =	Fi&l
-	v_Lang013 =	S&pela in och spela
-	v_Lang014 =	Komma&ndon
-	v_Lang015 =	&Redigera
-	v_Lang016 =	Alt&ernativ
-	v_Lang017 =	Anpassa
-	v_Lang018 =	A&utomatisk
-	v_Lang019 =	Manuell
-	v_Lang020 =	Stopp
-	v_Lang021 =	Paus
-	v_Lang022 =	&Kompakt
-	v_Lang023 =	&Bästa Passform
-	v_Lang024 =	&Default
-	v_Lang025 =	Sm&å
-	v_Lang026 =	Stor
+	v_Lang008 =	&Loop
+	v_Lang009 =	S&ökfält
+	v_Lang010 =	&Återställ kolumner Storlek
+	v_Lang011 =	Ik&oner Storlek
+	v_Lang012 =	Å&terställ Layout
+	v_Lang013 =	Fi&l
+	v_Lang014 =	S&pela in och spela
+	v_Lang015 =	Komma&ndon
+	v_Lang016 =	&Redigera
+	v_Lang017 =	Alt&ernativ
+	v_Lang018 =	Anpassa
+	v_Lang019 =	&Spela
+	v_Lang020 =	&Manuell
+	v_Lang021 =	S&topp
+	v_Lang022 =	&Paus
+	v_Lang023 =	&Kompakt
+	v_Lang024 =	&Bästa Passform
+	v_Lang025 =	&Default
+	v_Lang026 =	Sm&å
+	v_Lang027 =	Stor
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Inställningar
@@ -774,6 +775,7 @@
 	t_Lang214 =	Nyckel fördröjning
 	t_Lang215 =	Fördröjning mus
 	t_Lang216 =	Fördröjningsstyrning
+	t_Lang217 =	inkrementell
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Öppet
@@ -790,7 +792,7 @@
 		Den valda adressen eller filnamnet är ogiltigt.
 	d_Lang011 =	Varning
 	d_Lang012 =	Ingen kontroll vald.
-		Fortsätta?
+		Fortsätt?
 	d_Lang013 =	Exportera skriptet
 	d_Lang014 =	Scriptet Exporterades
 	d_Lang015 =	Filen har framgångsrikt exporterats!
@@ -876,7 +878,7 @@
 	d_Lang082 =	Filen hittades inte!
 	d_Lang083 =	En backup-fil har hittats. Vill du öppna den?
 	d_Lang084 =	Vänligen spara dina ändringar innan du schemalägger aktiviteter.
-	d_Lang085 =	Saknas "End Loop" uttalande i Macro 
+	d_Lang085 =	Saknas "End Loop" uttalande i Macro
 	d_Lang086 =	Saknas "End If 'uttalande i Macro
 	d_Lang087 =	Lägg märke till att ändringar som gjorts i skriptet utanför programmet inte kommer att påverka din MAKRON på något sätt.
 		Den här funktionen är endast avsedd som en snabb exportfunktionen . PMC är inte avsedd att vara en AHK script editor.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Dupliceringsfunktionen.
 	d_Lang102 =	Sattui virhe. Voit lähettää sähköpostia osoitteeseen "pulover@macrocreator.com" kanssa tiedosto:
 	d_Lang103 =	Nya språk fil finns.
+		Ladda ner nu?
 	d_Lang104 =	Meddelandet kommer inte att visas igen för samma uppdatering. Du kan ladda ner den från Hjälp-menyn > Sök efter uppdateringar.
 	d_Lang105 =	Arkiv skickats. Tack!
 	d_Lang106 =	Språkfiler uppdaterats.

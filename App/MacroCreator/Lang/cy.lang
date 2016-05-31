@@ -121,25 +121,26 @@
 	v_Lang005 =	Rh&agolwg
 	v_Lang006 =	&Toolbars
 	v_Lang007 =	H&otkeys
-	v_Lang008 =	&Chwilio Bar
-	v_Lang009 =	Co&lofnau Ailosod Maint
-	v_Lang010 =	&Eiconau Maint
-	v_Lang011 =	A&ilosod Layout
-	v_Lang012 =	&Ffeil
-	v_Lang013 =	Ch&warae cofnod
-	v_Lang014 =	&Gorchmynion
-	v_Lang015 =	Gol&ygu
-	v_Lang016 =	&Dewisiadau
-	v_Lang017 =	Adda&su
-	v_Lang018 =	&Awtomatig
-	v_Lang019 =	&Llawlyfr
-	v_Lang020 =	Sto&p
-	v_Lang021 =	&Saib
-	v_Lang022 =	&Compact
-	v_Lang023 =	&Ffit Orau
-	v_Lang024 =	&Default
-	v_Lang025 =	&Bach
-	v_Lang026 =	&Mawr
+	v_Lang008 =	&Dolen
+	v_Lang009 =	&Chwilio Bar
+	v_Lang010 =	Co&lofnau Ailosod Maint
+	v_Lang011 =	&Eiconau Maint
+	v_Lang012 =	A&ilosod Layout
+	v_Lang013 =	&Ffeil
+	v_Lang014 =	Ch&warae cofnod
+	v_Lang015 =	&Gorchmynion
+	v_Lang016 =	Gol&ygu
+	v_Lang017 =	&Dewisiadau
+	v_Lang018 =	Adda&su
+	v_Lang019 =	&Chwarae
+	v_Lang020 =	&Llawlyfr
+	v_Lang021 =	&Stop
+	v_Lang022 =	S&aib
+	v_Lang023 =	&Compact
+	v_Lang024 =	&Ffit Orau
+	v_Lang025 =	&Default
+	v_Lang026 =	&Bach
+	v_Lang027 =	&Mawr
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Gosodiadau
@@ -774,6 +775,7 @@
 	t_Lang214 =	Oedi allweddol
 	t_Lang215 =	Oedi llygoden
 	t_Lang216 =	Oedi rheoli
+	t_Lang217 =	cynyddrannol
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Agored
@@ -790,7 +792,7 @@
 		The منتخب کردہ ایڈریس یا فائل کا نام غلط ہے.
 	d_Lang011 =	Rhybudd
 	d_Lang012 =	Dim selected.
-		Continue?
+		Parhau?
 	d_Lang013 =	Allforio Sgript
 	d_Lang014 =	Sgript allfudo
 	d_Lang015 =	Mae'r ffeil yn cael ei allforio yn llwyddiannus!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Swyddogaeth dyblyg.
 	d_Lang102 =	Digwyddodd gwall. Gallwch anfon e-bost at 'pulover@macrocreator.com' gyda'r ffeil:
 	d_Lang103 =	Ieithoedd newydd ffeil ar gael.
+		Lawrlwytho nawr?
 	d_Lang104 =	Ni fydd y neges yn cael ei ddangos eto ar gyfer yr un diweddariad. Gallwch ei lawrlwytho o'r ddewislen Help> Gwirio am ddiweddariadau.
 	d_Lang105 =	Anfon ffeil yn llwyddiannus. Diolch!
 	d_Lang106 =	Ffeiliau Iaith ddiweddaru'n llwyddiannus.

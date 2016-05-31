@@ -121,25 +121,26 @@
 	v_Lang005 =	&Avant-première
 	v_Lang006 =	Barr&es D'outils
 	v_Lang007 =	Ra&ccourcis Clavier
-	v_Lang008 =	Barre &De Recherche
-	v_Lang009 =	R&éinitialiser Taille colonnes
-	v_Lang010 =	&Icônes Taille
-	v_Lang011 =	Rétablir La Di&sposition
-	v_Lang012 =	&Fichier
-	v_Lang013 =	E&nregistrement et lecture
-	v_Lang014 =	C&ommandes
-	v_Lang015 =	&Éditer
-	v_Lang016 =	Les O&ptions
-	v_Lang017 =	Personnaliser
-	v_Lang018 =	A&utomatique
-	v_Lang019 =	&Manuel
-	v_Lang020 =	Arr&êter
-	v_Lang021 =	Pause
-	v_Lang022 =	&Compact
-	v_Lang023 =	&Meilleur Ajustement
-	v_Lang024 =	&Par Défaut
-	v_Lang025 =	Petit
-	v_Lang026 =	&Grand
+	v_Lang008 =	B&oucle
+	v_Lang009 =	Barre &De Recherche
+	v_Lang010 =	R&éinitialiser Taille colonnes
+	v_Lang011 =	&Icônes Taille
+	v_Lang012 =	Rétablir La Di&sposition
+	v_Lang013 =	&Fichier
+	v_Lang014 =	E&nregistrement et lecture
+	v_Lang015 =	C&ommandes
+	v_Lang016 =	&Éditer
+	v_Lang017 =	Les O&ptions
+	v_Lang018 =	Personnaliser
+	v_Lang019 =	&Jouer
+	v_Lang020 =	&Manuel
+	v_Lang021 =	&Arrêter
+	v_Lang022 =	&Pause
+	v_Lang023 =	&Compact
+	v_Lang024 =	&Meilleur Ajustement
+	v_Lang025 =	&Par Défaut
+	v_Lang026 =	Petit
+	v_Lang027 =	&Grand
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Réglages
@@ -774,6 +775,7 @@
 	t_Lang214 =	Retard clé
 	t_Lang215 =	Retard souris
 	t_Lang216 =	Retard de commande
+	t_Lang217 =	incrémental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Ouvert
@@ -876,7 +878,7 @@
 	d_Lang082 =	Le fichier n'a pas été trouvé!
 	d_Lang083 =	Un fichier de sauvegarde a été trouvé. Voulez-vous ouvrir?
 	d_Lang084 =	S'il vous plaît enregistrer vos modifications avant de planifier une tâche.
-	d_Lang085 =	Manquant "End Loop" déclaration Macro 
+	d_Lang085 =	Manquant "End Loop" déclaration Macro
 	d_Lang086 =	Manquant "End If" déclaration Macro
 	d_Lang087 =	Notez que les modifications apportées au script en dehors du programme ne sera pas affecter vos macros en aucune façon.
 		Cette fonctionnalité est uniquement destinée en fonction rapide à l'exportation. PMC n'a pas été conçu pour être un éditeur de script AHK.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Fonction Dupliquer.
 	d_Lang102 =	Une erreur est survenue. Vous pouvez envoyer un email à 'pulover@macrocreator.com' avec le fichier:
 	d_Lang103 =	Nouvelles langues fichier disponible.
+		Télécharger maintenant?
 	d_Lang104 =	Ce message ne sera pas affiché de nouveau pour la même mise à jour. Vous pouvez le télécharger à partir du menu Aide > Vérifier les mises à jour.
 	d_Lang105 =	Fichier envoyé avec succès. Je vous remercie!
 	d_Lang106 =	Les fichiers de langue mis à jour avec succès.

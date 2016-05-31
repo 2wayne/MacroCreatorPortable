@@ -121,25 +121,26 @@
 	v_Lang005 =	A&vanç
 	v_Lang006 =	Ba&rres D'eines
 	v_Lang007 =	&Tecles D'accés Ràpid
-	v_Lang008 =	Barra &De Cerca
-	v_Lang009 =	R&establir mida de les columnes
-	v_Lang010 =	&Mida De Les Icones
-	v_Lang011 =	Restab&lir Disseny
-	v_Lang012 =	E&xpedient
-	v_Lang013 =	&Gravar i reproduir
-	v_Lang014 =	&Ordres
-	v_Lang015 =	Mod&ifica
-	v_Lang016 =	O&pcions
-	v_Lang017 =	Perso&nalitzar
-	v_Lang018 =	A&utomàtic
-	v_Lang019 =	Manual
-	v_Lang020 =	Aturi
-	v_Lang021 =	Pausa
-	v_Lang022 =	&Compacte
-	v_Lang023 =	&Millor Ajust
-	v_Lang024 =	&Defecte
-	v_Lang025 =	Menor
-	v_Lang026 =	Gran
+	v_Lang008 =	B&ucle
+	v_Lang009 =	Barra &De Cerca
+	v_Lang010 =	R&establir mida de les columnes
+	v_Lang011 =	&Mida De Les Icones
+	v_Lang012 =	Restab&lir Disseny
+	v_Lang013 =	E&xpedient
+	v_Lang014 =	&Gravar i reproduir
+	v_Lang015 =	&Ordres
+	v_Lang016 =	Mod&ifica
+	v_Lang017 =	O&pcions
+	v_Lang018 =	Perso&nalitzar
+	v_Lang019 =	&Jugar
+	v_Lang020 =	&Manual
+	v_Lang021 =	&Aturi
+	v_Lang022 =	&Pausa
+	v_Lang023 =	&Compacte
+	v_Lang024 =	&Millor Ajust
+	v_Lang025 =	&Defecte
+	v_Lang026 =	Menor
+	v_Lang027 =	Gran
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Configuració
@@ -774,6 +775,7 @@
 	t_Lang214 =	Retard clau
 	t_Lang215 =	Retard del ratolí
 	t_Lang216 =	Control de retard
+	t_Lang217 =	incremental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Obert
@@ -783,14 +785,14 @@
 	d_Lang005 =	Desar Projecte
 	d_Lang006 =	Error en desar / sobreescriure l'arxiu
 	d_Lang007 =	Error
-	d_Lang008 =	Error: No macro seleccionada 
+	d_Lang008 =	Error: No macro seleccionada
 		Comproveu almenys una macro a la llista ..
 	d_Lang009 =	Error: No Seleccionat tecla d'accés directe.
-	d_Lang010 =	Error:. Direcció invàlida 
+	d_Lang010 =	Error:. Direcció invàlida
 		La adreça seleccionada o el nom del fitxer no és vàlid.
 	d_Lang011 =	Advertència
-	d_Lang012 =	No hi ha control seleccionat. 
-		 Voleu continuar?
+	d_Lang012 =	No hi ha control seleccionat.
+		Continuar?
 	d_Lang013 =	Guió Exportació
 	d_Lang014 =	Guió Exportats
 	d_Lang015 =	L'arxiu s'ha exportat amb èxit!
@@ -876,7 +878,7 @@
 	d_Lang082 =	El fitxer no s'ha trobat!
 	d_Lang083 =	S'ha trobat un fitxer de còpia de seguretat. Vols obrir-lo?
 	d_Lang084 =	Deseu els canvis abans de programar una tasca.
-	d_Lang085 =	Falta "End Loop" declaració en la Macro 
+	d_Lang085 =	Falta "End Loop" declaració en la Macro
 	d_Lang086 =	Falta "End If" declaració en la Macro
 	d_Lang087 =	Recordeu que els canvis realitzats en el guió fora del programa no afectarà la seva MACROS de cap manera.
 		Aquesta característica només està pensada com una funció d'exportació ràpida. PMC no està dissenyat per a ser un editor de scripts AHK.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Funció Duplicar.
 	d_Lang102 =	Hi ha hagut un error. Podeu enviar un correu electrònic a 'pulover@macrocreator.com' amb l'arxiu:
 	d_Lang103 =	Arxiu disponible Nous idiomes.
+		Descarrega ara?
 	d_Lang104 =	Aquest missatge no es mostra una altra vegada per la mateixa actualització. Es pot descarregar des del menú Ajuda > Cerca actualitzacions.
 	d_Lang105 =	Arxiu enviat amb èxit. Gràcies!
 	d_Lang106 =	Els arxius d'idioma actualitzats amb èxit.

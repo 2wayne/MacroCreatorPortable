@@ -121,25 +121,26 @@
 	v_Lang005 =	I&mboniso
 	v_Lang006 =	I&bar
 	v_Lang007 =	&Hotkeys
-	v_Lang008 =	U&kufuna Bar
-	v_Lang009 =	K&wimihlathi ngocwangcisa kwakhona Ubungakanani
-	v_Lang010 =	I&cons Ubungakanani
-	v_Lang011 =	Cw&angcisa Ubeko
-	v_Lang012 =	I&fayili
-	v_Lang013 =	I&rekhodi Dlala
-	v_Lang014 =	Imi&yalelo
-	v_Lang015 =	H&lela
-	v_Lang016 =	Ii&nketho
-	v_Lang017 =	Y&enza
-	v_Lang018 =	E&zizenzekelayo
-	v_Lang019 =	N&gezandla
-	v_Lang020 =	&Yeka
-	v_Lang021 =	N&qumama
-	v_Lang022 =	&Indawo yokudlala
-	v_Lang023 =	&Kufanelekile Eyona
-	v_Lang024 =	&Silela
-	v_Lang025 =	&Small
-	v_Lang026 =	&Ezinkulu
+	v_Lang008 =	&Lukhangelwe
+	v_Lang009 =	U&kufuna Bar
+	v_Lang010 =	K&wimihlathi ngocwangcisa kwakhona Ubungakanani
+	v_Lang011 =	I&cons Ubungakanani
+	v_Lang012 =	Cw&angcisa Ubeko
+	v_Lang013 =	I&fayili
+	v_Lang014 =	I&rekhodi Dlala
+	v_Lang015 =	Imi&yalelo
+	v_Lang016 =	H&lela
+	v_Lang017 =	Ii&nketho
+	v_Lang018 =	Y&enza
+	v_Lang019 =	&Umdlalo
+	v_Lang020 =	&Ngezandla
+	v_Lang021 =	&Yeka
+	v_Lang022 =	N&qumama
+	v_Lang023 =	&Indawo yokudlala
+	v_Lang024 =	&Kufanelekile Eyona
+	v_Lang025 =	&Silela
+	v_Lang026 =	&Small
+	v_Lang027 =	&Ezinkulu
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Izicwangciso
@@ -774,6 +775,7 @@
 	t_Lang214 =	Kokulibazisa isitshixo
 	t_Lang215 =	Mouse ngokukhawuleza
 	t_Lang216 =	Kokulibazisa ulawulo
+	t_Lang217 =	lolwandiso
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Vula
@@ -784,13 +786,13 @@
 	d_Lang006 =	Ayiphumelelanga ukugcina / Ifayile yoqwalaselo
 	d_Lang007 =	Imposiso
 	d_Lang008 =	Imposiso: Akukho Selected.`nPlease itshekhi Macro ubuncinane enye Macro kuluhlu.
-		
+		Nceda khangela Macro ubuncinane enye kuluhlu.
 	d_Lang009 =	Imposiso: Akukho zegama ezikhethiweyo.
 	d_Lang010 =	Imposiso: Address.`nThe Elingasebenziyo ekhethiweyo idilesi okanye igama lefayile ayisebenzi.
-		
+		Idilesi ekhethiweyo okanye lefayile ayisebenzi.
 	d_Lang011 =	Isilumkiso
 	d_Lang012 =	Akukho selected.`nContinue ulawulo?
-		
+		Qhubekeka?
 	d_Lang013 =	Rhweba Okushicilelweyo
 	d_Lang014 =	Okushicilelweyo kumazwe
 	d_Lang015 =	Ifayile ngaphandle ngempumelelo!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Umsebenzi oluphindwe kabini.
 	d_Lang102 =	Impazamo yenzekile. Unako ukuthumela i email 'pulover@macrocreator.com' nge fayile:
 	d_Lang103 =	Iilwimi New yefayile ekhoyo.
+		Khuphella ngoku?
 	d_Lang104 =	Lo myalezo uza ku boniswa kwakhona uhlaziyo efanayo. Uyakwazi ukulayisha ukusuka menu Uncedo> Qwalasela kogqibo.
 	d_Lang105 =	Ifayile luthunyelwe ngempumelelo. Enkosi!
 	d_Lang106 =	Iifayile Ulwimi luhlaziywe ngempumelelo.

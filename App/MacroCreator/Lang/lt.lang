@@ -121,25 +121,26 @@
 	v_Lang005 =	P&eržiūrėti
 	v_Lang006 =	Į&rankių juostos
 	v_Lang007 =	K&lavišai
-	v_Lang008 =	P&aieška Baras
-	v_Lang009 =	A&tstatyti stulpelių dydį
-	v_Lang010 =	P&iktogramos dydis
-	v_Lang011 =	At&statyti išdėstymą
-	v_Lang012 =	&Byla
-	v_Lang013 =	Įra&šų Groti
-	v_Lang014 =	K&omandos
-	v_Lang015 =	Re&daguoti
-	v_Lang016 =	&Nustatymai
-	v_Lang017 =	&Tinkinti
-	v_Lang018 =	A&utomatinis
-	v_Lang019 =	&Vadovas
-	v_Lang020 =	&Stop
-	v_Lang021 =	Pau&zė
-	v_Lang022 =	&Kompaktiška
-	v_Lang023 =	&Geriausiai Tinkantis
-	v_Lang024 =	&Numatytasis
-	v_Lang025 =	Ma&žas
-	v_Lang026 =	&Didelis
+	v_Lang008 =	K&ilpa
+	v_Lang009 =	P&aieška Baras
+	v_Lang010 =	A&tstatyti stulpelių dydį
+	v_Lang011 =	Pikt&ogramos dydis
+	v_Lang012 =	At&statyti išdėstymą
+	v_Lang013 =	&Byla
+	v_Lang014 =	Įra&šų Groti
+	v_Lang015 =	K&omandos
+	v_Lang016 =	Re&daguoti
+	v_Lang017 =	&Nustatymai
+	v_Lang018 =	&Tinkinti
+	v_Lang019 =	&Groti
+	v_Lang020 =	&Vadovas
+	v_Lang021 =	&Stop
+	v_Lang022 =	&Pauzė
+	v_Lang023 =	&Kompaktiška
+	v_Lang024 =	&Geriausiai Tinkantis
+	v_Lang025 =	&Numatytasis
+	v_Lang026 =	Ma&žas
+	v_Lang027 =	&Didelis
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Nustatymai
@@ -774,6 +775,7 @@
 	t_Lang214 =	Raktas delsimas
 	t_Lang215 =	Pelės delsimas
 	t_Lang216 =	Kontrolės vėlavimo
+	t_Lang217 =	Pavienis
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Atviras
@@ -790,7 +792,7 @@
 		The избраната адреса или име на датотека не е валиден.
 	d_Lang011 =	Įspėjimas
 	d_Lang012 =	Nėra kontrolė selected.
-		Continue rheolaeth?
+		Tęsti?
 	d_Lang013 =	Eksportas scenarijus
 	d_Lang014 =	Scenarijaus Eksportuota
 	d_Lang015 =	Šis failas buvo sėkmingai eksportuoti!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Kopijavimo funkcija.
 	d_Lang102 =	Įvyko klaida. Galite siųsti el.laišką 'pulover@macrocreator.com "su failu:
 	d_Lang103 =	Naujos kalbos failą galima.
+		Parsisiųsti dabar?
 	d_Lang104 =	Ne, šis pranešimas bus vėl rodomas tuo pačiu atnaujinimo. Jūs galite jį atsisiųsti iš meniu Žinynas> Ieškoti naujinių.
 	d_Lang105 =	Failo sėkmingai išsiųsta. Ačiū!
 	d_Lang106 =	Kalbų failai sėkmingai atnaujinta.

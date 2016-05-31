@@ -121,25 +121,26 @@
 	v_Lang005 =	&Pregled
 	v_Lang006 =	&Alatne Trake
 	v_Lang007 =	&Hotkeys
-	v_Lang008 =	&Traka Za Pretraživanje
-	v_Lang009 =	V&eličina Reset Kolumne
-	v_Lang010 =	Ik&one VeličIna
-	v_Lang011 =	&Reset Raspored
-	v_Lang012 =	&File
-	v_Lang013 =	&Snimanje i reprodukciju
-	v_Lang014 =	&Naredbe
-	v_Lang015 =	Ure&di
-	v_Lang016 =	&Mogućnosti
-	v_Lang017 =	Pri&lagodite
-	v_Lang018 =	Automatski
-	v_Lang019 =	Priru&čnik
-	v_Lang020 =	Stop
-	v_Lang021 =	Pau&za
-	v_Lang022 =	&Kompaktan
-	v_Lang023 =	&Najbolje Odgovara
-	v_Lang024 =	&Default
-	v_Lang025 =	Mali
-	v_Lang026 =	Veliki
+	v_Lang008 =	P&etlja
+	v_Lang009 =	&Traka Za Pretraživanje
+	v_Lang010 =	Ve&ličina Reset Kolumne
+	v_Lang011 =	Ik&one VeličIna
+	v_Lang012 =	&Reset Raspored
+	v_Lang013 =	&File
+	v_Lang014 =	&Snimanje i reprodukciju
+	v_Lang015 =	&Naredbe
+	v_Lang016 =	Ure&di
+	v_Lang017 =	&Mogućnosti
+	v_Lang018 =	Pri&lagodite
+	v_Lang019 =	&Igrati
+	v_Lang020 =	&Priručnik
+	v_Lang021 =	&Stop
+	v_Lang022 =	P&auza
+	v_Lang023 =	&Kompaktan
+	v_Lang024 =	&Najbolje Odgovara
+	v_Lang025 =	&Default
+	v_Lang026 =	Mali
+	v_Lang027 =	Veliki
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Postavke
@@ -774,6 +775,7 @@
 	t_Lang214 =	Ključ kašnjenje
 	t_Lang215 =	Miš kašnjenje
 	t_Lang216 =	Kontrola kašnjenje
+	t_Lang217 =	Inkrementalni
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Otvoreno
@@ -783,13 +785,13 @@
 	d_Lang005 =	Spremi Projekt
 	d_Lang006 =	Neuspjelo spremanje / prebrisati datoteku
 	d_Lang007 =	Pogreška
-	d_Lang008 =	Pogreška: Makro U Izabrani 
+	d_Lang008 =	Pogreška: Makro U Izabrani
 		Imajte provjeriti barem jednu makronaredbu na popisu..
 	d_Lang009 =	Pogreška: Ne Hotkey Odabrani.
-	d_Lang010 =	Pogreška:. Invalid Adresa 
+	d_Lang010 =	Pogreška:. Invalid Adresa
 		Tim odabrana adresa ili ime datoteke nije valjan.
 	d_Lang011 =	Upozorenje
-	d_Lang012 =	Ne kontrola odabrana. 
+	d_Lang012 =	Ne kontrola odabrana.
 		Nastaviti?
 	d_Lang013 =	Izvoz Script
 	d_Lang014 =	Izvoze Script
@@ -876,7 +878,7 @@
 	d_Lang082 =	Datoteka nije pronađena!
 	d_Lang083 =	Kopija je pronađena. Želite li ga otvoriti?
 	d_Lang084 =	Molimo spremite promjene prije zakazivanja zadatak.
-	d_Lang085 =	Nedostaje "End Loop" izjavu u Macro 
+	d_Lang085 =	Nedostaje "End Loop" izjavu u Macro
 	d_Lang086 =	Nedostaje '"End If" iskaz u Macro
 	d_Lang087 =	Obavijest da su promjene koje su napravljene na skriptu izvan programa NEĆE utjecati na vaše makronaredbe na bilo koji način.
 		Ova značajka je namijenjena samo kao brzi izvozne funkcije. PMC nije namijenjen da bude urednik AHK skripta.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Dvostruki Funkcija.
 	d_Lang102 =	Dogodila se pogreška. Možete poslati e-mail "pulover@macrocreator.com 's datoteku:
 	d_Lang103 =	Novi jezici podnijeti raspolaganju.
+		Preuzmite sada?
 	d_Lang104 =	Ova poruka neće biti ponovno prikazana za isti ažuriranja. Možete ga preuzeti na izborniku Pomoć > Provjeri ima li ažuriranja.
 	d_Lang105 =	Datoteka je uspješno poslana. Hvala!
 	d_Lang106 =	Jezična datoteka je uspješno ažuriran.

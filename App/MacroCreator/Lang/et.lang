@@ -121,25 +121,26 @@
 	v_Lang005 =	&Eelvaade
 	v_Lang006 =	T&ööriistaribad
 	v_Lang007 =	&Kiirklahvid
-	v_Lang008 =	&Search Bar
-	v_Lang009 =	Ee&malda kõik veerud Suurus
-	v_Lang010 =	&Ikoonid Suurus
-	v_Lang011 =	&Reset paigutus
-	v_Lang012 =	&Fail
-	v_Lang013 =	Rec&ord Play
-	v_Lang014 =	K&äsud
-	v_Lang015 =	E&dit
-	v_Lang016 =	&Valikud
-	v_Lang017 =	Koha&nda
-	v_Lang018 =	A&utomaatne
-	v_Lang019 =	&Käsiraamat
-	v_Lang020 =	&Peatus
-	v_Lang021 =	&Paus
-	v_Lang022 =	&Kompaktne
-	v_Lang023 =	&Parim Sobivus
-	v_Lang024 =	&Vaikimisi
-	v_Lang025 =	&Väike
-	v_Lang026 =	&Suur
+	v_Lang008 =	Aa&s
+	v_Lang009 =	Sea&rch Bar
+	v_Lang010 =	Ee&malda kõik veerud Suurus
+	v_Lang011 =	&Ikoonid Suurus
+	v_Lang012 =	Reset &paigutus
+	v_Lang013 =	&Fail
+	v_Lang014 =	Rec&ord Play
+	v_Lang015 =	K&äsud
+	v_Lang016 =	E&dit
+	v_Lang017 =	&Valikud
+	v_Lang018 =	Koha&nda
+	v_Lang019 =	&Mängima
+	v_Lang020 =	&Käsiraamat
+	v_Lang021 =	&Peatus
+	v_Lang022 =	P&aus
+	v_Lang023 =	&Kompaktne
+	v_Lang024 =	&Parim Sobivus
+	v_Lang025 =	&Vaikimisi
+	v_Lang026 =	&Väike
+	v_Lang027 =	&Suur
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Seaded
@@ -774,6 +775,7 @@
 	t_Lang214 =	Võti viivitus
 	t_Lang215 =	Hiire viivitus
 	t_Lang216 =	Kontrolli hilinemine
+	t_Lang217 =	kasvav
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Avatud
@@ -790,7 +792,7 @@
 		The انتخاب آدرس و یا نام فایل نامعتبر است.
 	d_Lang011 =	Hoiatus
 	d_Lang012 =	Ei kontrolli selected.
-		Continue?
+		Jätka?
 	d_Lang013 =	Ekspordi Script
 	d_Lang014 =	Script Exported
 	d_Lang015 =	Fail eksporditi edukalt!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Duplicate funktsiooni.
 	d_Lang102 =	Ilmnes viga. Võite saata e-kiri "pulover@macrocreator.com" failiga:
 	d_Lang103 =	New keeles esitada saadaval.
+		Lae alla nüüd?
 	d_Lang104 =	See sõnum ei näidata enam sama uuendus. Võite alla laadida menüüst Help> Otsi uuendusi.
 	d_Lang105 =	Fail edukalt saadetud. Aitäh!
 	d_Lang106 =	Keel faile edukalt uuendatud.

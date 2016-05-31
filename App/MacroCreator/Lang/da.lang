@@ -121,25 +121,26 @@
 	v_Lang005 =	&Eksempel
 	v_Lang006 =	&Værktøjslinjer
 	v_Lang007 =	&Genvejstaster
-	v_Lang008 =	&Søgelinjen
-	v_Lang009 =	&Nulstil Kolonner Size
-	v_Lang010 =	Ik&oner StøRrelse
-	v_Lang011 =	&Reset Layout
-	v_Lang012 =	Fi&l
-	v_Lang013 =	O&ptage og afspille
-	v_Lang014 =	Ko&mmandoer
-	v_Lang015 =	Re&digere
-	v_Lang016 =	Op&tioner
-	v_Lang017 =	Tilpas
-	v_Lang018 =	A&utomatisk
-	v_Lang019 =	Manual
-	v_Lang020 =	Stands
-	v_Lang021 =	Pause
-	v_Lang022 =	&Compact
-	v_Lang023 =	&Bedste Pasform
-	v_Lang024 =	&Standard
-	v_Lang025 =	Lille
-	v_Lang026 =	Stor
+	v_Lang008 =	&Loop
+	v_Lang009 =	&Søgelinjen
+	v_Lang010 =	&Nulstil Kolonner Size
+	v_Lang011 =	Ik&oner StøRrelse
+	v_Lang012 =	&Reset Layout
+	v_Lang013 =	Fi&l
+	v_Lang014 =	O&ptage og afspille
+	v_Lang015 =	Ko&mmandoer
+	v_Lang016 =	Re&digere
+	v_Lang017 =	Op&tioner
+	v_Lang018 =	Tilpas
+	v_Lang019 =	&Spil
+	v_Lang020 =	&Manual
+	v_Lang021 =	S&tands
+	v_Lang022 =	&Pause
+	v_Lang023 =	&Compact
+	v_Lang024 =	&Bedste Pasform
+	v_Lang025 =	&Standard
+	v_Lang026 =	Lille
+	v_Lang027 =	Stor
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Indstillinger
@@ -774,6 +775,7 @@
 	t_Lang214 =	Nøgle forsinkelse
 	t_Lang215 =	Mus forsinkelse
 	t_Lang216 =	Kontrol forsinkelse
+	t_Lang217 =	Incremental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Åbent
@@ -790,7 +792,7 @@
 		Den valgte adresse eller filnavnet er ugyldigt.
 	d_Lang011 =	Advarsel
 	d_Lang012 =	Ingen kontrol valgt.
-		Fortsæt?
+		Blive ved?
 	d_Lang013 =	Eksport Script
 	d_Lang014 =	Script Eksporterede
 	d_Lang015 =	Filen blev succesfuldt eksporteret!
@@ -876,7 +878,7 @@
 	d_Lang082 =	Filen blev ikke fundet!
 	d_Lang083 =	En backup-fil er fundet. Kunne du tænke dig at åbne den?
 	d_Lang084 =	Gem dine ændringer før du planlægger en opgave.
-	d_Lang085 =	Mangler "End Loop" erklæring i Makro 
+	d_Lang085 =	Mangler "End Loop" erklæring i Makro
 	d_Lang086 =	Mangler "End If" erklæring i Makro
 	d_Lang087 =	Bemærk at ændringer i scriptet uden for programmet ikke vil påvirke din MAKROER på nogen måde.
 		Denne funktion er kun ment som en hurtig eksport funktion. PMC er ikke designet til at være en AHK script editor.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Duplicate funktion.
 	d_Lang102 =	En fejl opstod. Du kan sende en e-mail til "pulover@macrocreator.com" med filen:
 	d_Lang103 =	Nye sprog fil til rådighed.
+		Download nu?
 	d_Lang104 =	Denne meddelelse vil ikke blive vist igen til samme opdatering. Du kan downloade det fra menuen Hjælp > Søg efter opdateringer.
 	d_Lang105 =	Fil sendt. Tak!
 	d_Lang106 =	Sprogfiler opdateret.

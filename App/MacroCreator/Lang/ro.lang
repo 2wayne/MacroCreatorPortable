@@ -121,25 +121,26 @@
 	v_Lang005 =	&Previzualizare
 	v_Lang006 =	B&are de instrumente
 	v_Lang007 =	&Hotkeys
-	v_Lang008 =	&Căutare Bar
-	v_Lang009 =	C&oloane de resetare Dimensiune
-	v_Lang010 =	&Dimensiuni pictograme
-	v_Lang011 =	A&spect reinițializa
-	v_Lang012 =	&Fişier
-	v_Lang013 =	R&edare înregistrare
-	v_Lang014 =	Come&nzile
-	v_Lang015 =	Edi&tați | ×
-	v_Lang016 =	Op&țiuni
-	v_Lang017 =	Persona&liza
-	v_Lang018 =	A&utomat
-	v_Lang019 =	&Manual
-	v_Lang020 =	&Stop
-	v_Lang021 =	Pau&ză
-	v_Lang022 =	&Compact
-	v_Lang023 =	C&el Mai Potrivit
-	v_Lang024 =	&Mod implicit
-	v_Lang025 =	&Mic
-	v_Lang026 =	&Mare
+	v_Lang008 =	B&uclă
+	v_Lang009 =	&Căutare Bar
+	v_Lang010 =	C&oloane de resetare Dimensiune
+	v_Lang011 =	&Dimensiuni pictograme
+	v_Lang012 =	A&spect reinițializa
+	v_Lang013 =	&Fişier
+	v_Lang014 =	R&edare înregistrare
+	v_Lang015 =	Come&nzile
+	v_Lang016 =	Edi&tați | ×
+	v_Lang017 =	Op&țiuni
+	v_Lang018 =	Persona&liza
+	v_Lang019 =	&A juca
+	v_Lang020 =	&Manual
+	v_Lang021 =	&Stop
+	v_Lang022 =	&Pauză
+	v_Lang023 =	&Compact
+	v_Lang024 =	C&el Mai Potrivit
+	v_Lang025 =	&Mod implicit
+	v_Lang026 =	&Mic
+	v_Lang027 =	&Mare
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Setările
@@ -774,6 +775,7 @@
 	t_Lang214 =	Întârziere cheie
 	t_Lang215 =	Întârziere mouse-ul
 	t_Lang216 =	Întârziere de control
+	t_Lang217 =	incrementală
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Deschis
@@ -790,7 +792,7 @@
 		The cyfeiriad neu ffeil a ddewiswyd enw yn annilys.
 	d_Lang011 =	Avertizare
 	d_Lang012 =	Nr selected.
-		Continue?
+		Continua?
 	d_Lang013 =	Script-ul de export
 	d_Lang014 =	Script-Exportata
 	d_Lang015 =	Dosarul a fost exportat cu succes!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Funcția duplicat.
 	d_Lang102 =	S-a produs o eroare. Aveți posibilitatea să trimiteți un e-mail la 'pulover@macrocreator.com' cu fișierul:
 	d_Lang103 =	Fișier disponibil limbi noi.
+		Descarcă acum?
 	d_Lang104 =	Acest mesaj nu va fi afișat din nou pentru aceeași actualizare. Puteți să-l descărcați din meniul Help> Verificare actualizări.
 	d_Lang105 =	Fișier trimis cu succes. Mulțumesc!
 	d_Lang106 =	Fișierele de limbă actualizate cu succes.

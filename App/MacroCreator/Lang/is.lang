@@ -121,25 +121,26 @@
 	v_Lang005 =	&Preview
 	v_Lang006 =	&Toolbars
 	v_Lang007 =	H&otkeys
-	v_Lang008 =	&Leit Bar
-	v_Lang009 =	&Endurstilla Dálkar Size
-	v_Lang010 =	T&ákn Stærð
-	v_Lang011 =	E&ndurstilla Layout
-	v_Lang012 =	&File
-	v_Lang013 =	&Record Play
-	v_Lang014 =	S&kipanir
-	v_Lang015 =	&Breyta
-	v_Lang016 =	&Valmöguleikar
-	v_Lang017 =	S&érsníða
-	v_Lang018 =	S&jálfvirk
-	v_Lang019 =	&Manual
-	v_Lang020 =	H&ættu
-	v_Lang021 =	&Hlé
-	v_Lang022 =	&Compact
-	v_Lang023 =	&Best Passa
-	v_Lang024 =	&Sjálfgefið
-	v_Lang025 =	L&ítil
-	v_Lang026 =	St&ór
+	v_Lang008 =	&Loop
+	v_Lang009 =	L&eit Bar
+	v_Lang010 =	E&ndurstilla Dálkar Size
+	v_Lang011 =	T&ákn Stærð
+	v_Lang012 =	En&durstilla Layout
+	v_Lang013 =	&File
+	v_Lang014 =	&Record Play
+	v_Lang015 =	S&kipanir
+	v_Lang016 =	&Breyta
+	v_Lang017 =	&Valmöguleikar
+	v_Lang018 =	S&érsníða
+	v_Lang019 =	&Spila
+	v_Lang020 =	&Manual
+	v_Lang021 =	&Hættu
+	v_Lang022 =	H&lé
+	v_Lang023 =	&Compact
+	v_Lang024 =	&Best Passa
+	v_Lang025 =	&Sjálfgefið
+	v_Lang026 =	L&ítil
+	v_Lang027 =	St&ór
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Stillingar
@@ -774,6 +775,7 @@
 	t_Lang214 =	Lykillinn seinkun
 	t_Lang215 =	Mús seinkun
 	t_Lang216 =	Stjórn seinkun
+	t_Lang217 =	stigvaxandi
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Open
@@ -790,7 +792,7 @@
 		The izvēlēto adresi vai faila nosaukums ir nederīgs.
 	d_Lang011 =	Viðvörun
 	d_Lang012 =	Engin stjórn selected.
-		Continue?
+		Halda áfram?
 	d_Lang013 =	Flytja Script
 	d_Lang014 =	Script Útfluttar
 	d_Lang015 =	Skráin var flutt út!
@@ -905,6 +907,7 @@
 	d_Lang101 =	Afrit virka.
 	d_Lang102 =	Villa kom upp. Þú getur sent tölvupóst á 'pulover@macrocreator.com' með skrá:
 	d_Lang103 =	Ný tungumál skrá boði.
+		Hlaða niður núna?
 	d_Lang104 =	Þetta bréf verður ekki sýnd aftur fyrir sama uppfærslu. Þú getur sótt það frá Hjálp valmyndinni> Leita að uppfærslum.
 	d_Lang105 =	File send. Þakka þér!
 	d_Lang106 =	Tungumál skrár uppfærð.

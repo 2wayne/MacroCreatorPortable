@@ -121,25 +121,26 @@
 	v_Lang005 =	&Xem trước
 	v_Lang006 =	Thanh &công cụ
 	v_Lang007 =	&Phím nóng
-	v_Lang008 =	Thanh T&ìm Kiếm
-	v_Lang009 =	Th&iết lập lại Cột Kích
-	v_Lang010 =	&BiểU TượNg KíCh ThướC
-	v_Lang011 =	&Giao Diện Thiết Lập Lại
-	v_Lang012 =	T&ập tin
-	v_Lang013 =	Ghi &lại và chơi
-	v_Lang014 =	L&ệnh
-	v_Lang015 =	Ch&ỉnh sửa
-	v_Lang016 =	T&ùy chọn
-	v_Lang017 =	Tù&y chỉnh
-	v_Lang018 =	T&ự động
-	v_Lang019 =	Hư&ớng dẫn sử dụng
-	v_Lang020 =	Th&ôi
-	v_Lang021 =	T&ạm dừng
-	v_Lang022 =	&Nhỏ gọn
-	v_Lang023 =	&Phù Hợp Nhất
-	v_Lang024 =	&Mặc Định
-	v_Lang025 =	Nhỏ
-	v_Lang026 =	Lớn
+	v_Lang008 =	&Vòng lặp
+	v_Lang009 =	Thanh T&ìm Kiếm
+	v_Lang010 =	Th&iết lập lại Cột Kích
+	v_Lang011 =	&BiểU TượNg KíCh ThướC
+	v_Lang012 =	&Giao Diện Thiết Lập Lại
+	v_Lang013 =	T&ập tin
+	v_Lang014 =	Ghi &lại và chơi
+	v_Lang015 =	L&ệnh
+	v_Lang016 =	Ch&ỉnh sửa
+	v_Lang017 =	T&ùy chọn
+	v_Lang018 =	Tù&y chỉnh
+	v_Lang019 =	&Chơi
+	v_Lang020 =	&Hướng dẫn sử dụng
+	v_Lang021 =	&Thôi
+	v_Lang022 =	T&ạm dừng
+	v_Lang023 =	&Nhỏ gọn
+	v_Lang024 =	&Phù Hợp Nhất
+	v_Lang025 =	&Mặc Định
+	v_Lang026 =	Nhỏ
+	v_Lang027 =	Lớn
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Cài đặt
@@ -774,6 +775,7 @@
 	t_Lang214 =	Chậm trễ chính
 	t_Lang215 =	Chậm trễ chuột
 	t_Lang216 =	Chậm trễ kiểm soát
+	t_Lang217 =	Incremental
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Mở
@@ -876,7 +878,7 @@
 	d_Lang082 =	Các tập tin không tìm thấy!
 	d_Lang083 =	Một tập tin sao lưu đã được tìm thấy. Bạn có muốn mở nó?
 	d_Lang084 =	Xin lưu các thay đổi của bạn trước khi lập kế hoạch một nhiệm vụ.
-	d_Lang085 =	Mất tích "End Loop" tuyên bố trong Macro 
+	d_Lang085 =	Mất tích "End Loop" tuyên bố trong Macro
 	d_Lang086 =	Mất tích "End If" tuyên bố trong Macro
 	d_Lang087 =	Chú ý rằng các thay đổi được thực hiện cho các script ngoài chương trình SẼ KHÔNG ẢNH HƯỞNG macro của bạn trong bất kỳ cách nào.
 		Tính năng này chỉ có ý nghĩa như một chức năng xuất khẩu nhanh chóng. PMC không được thiết kế để trở thành một biên tập viên AHK kịch bản.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Chức năng trùng lặp.
 	d_Lang102 =	Có lỗi xảy ra. Bạn có thể gửi một email đến 'pulover@macrocreator.com' với các file:
 	d_Lang103 =	Ngôn ngữ mới nộp có sẵn.
+		Tải ngay?
 	d_Lang104 =	Thông báo này sẽ không được hiển thị lại cho các bản cập nhật tương tự. Bạn có thể tải nó từ menu Help > Check for updates.
 	d_Lang105 =	Tập tin được gửi thành công. Cảm ơn bạn!
 	d_Lang106 =	Tập tin ngôn ngữ được cập nhật thành công.

@@ -121,25 +121,26 @@
 	v_Lang005 =	&Önizleme
 	v_Lang006 =	&Araç Çubukları
 	v_Lang007 =	K&ısayol Tuşları
-	v_Lang008 =	A&rama Çubuğu
-	v_Lang009 =	&Sütunlar Boyutu Sıfırla
-	v_Lang010 =	S&imgeler Boyutu
-	v_Lang011 =	&Düzen Sıfırla
-	v_Lang012 =	D&osya
-	v_Lang013 =	Ka&ydedin ve oyna
-	v_Lang014 =	Ko&mutları
-	v_Lang015 =	D&üzenleme
-	v_Lang016 =	S&eçenekleri
-	v_Lang017 =	Ö&zelleştirme
-	v_Lang018 =	O&tomatik
-	v_Lang019 =	Ma&nuel
-	v_Lang020 =	D&ur
-	v_Lang021 =	Durma
-	v_Lang022 =	&Kompakt
-	v_Lang023 =	&En Uygun
-	v_Lang024 =	&Varsayılan
-	v_Lang025 =	Kü&çük
-	v_Lang026 =	&Büyük
+	v_Lang008 =	&Döngü
+	v_Lang009 =	A&rama Çubuğu
+	v_Lang010 =	&Sütunlar Boyutu Sıfırla
+	v_Lang011 =	S&imgeler Boyutu
+	v_Lang012 =	D&üzen Sıfırla
+	v_Lang013 =	D&osya
+	v_Lang014 =	Ka&ydedin ve oyna
+	v_Lang015 =	Ko&mutları
+	v_Lang016 =	D&üzenleme
+	v_Lang017 =	S&eçenekleri
+	v_Lang018 =	Ö&zelleştirme
+	v_Lang019 =	&Oynamak
+	v_Lang020 =	&Manuel
+	v_Lang021 =	&Dur
+	v_Lang022 =	D&urma
+	v_Lang023 =	&Kompakt
+	v_Lang024 =	&En Uygun
+	v_Lang025 =	&Varsayılan
+	v_Lang026 =	Kü&çük
+	v_Lang027 =	&Büyük
 		
 ; 09. Options Sub Menu		
 	o_Lang001 =	&Ayarlar
@@ -774,6 +775,7 @@
 	t_Lang214 =	Anahtar gecikme
 	t_Lang215 =	Fare gecikme
 	t_Lang216 =	Kontrol gecikmesi
+	t_Lang217 =	artımlı
 		
 ; 17. Messages & Dialogs		
 	d_Lang001 =	Açık
@@ -790,7 +792,7 @@
 		Seçilen adresi veya dosya adı geçersiz.
 	d_Lang011 =	Uyarı
 	d_Lang012 =	Hiçbir kontrol seçilmiş.
-		Devam edilsin mi?
+		Devam?
 	d_Lang013 =	Komut İhracat
 	d_Lang014 =	Komut İhracat
 	d_Lang015 =	Dosya başarıyla ihraç edildi!
@@ -876,7 +878,7 @@
 	d_Lang082 =	Dosya bulunamadı!
 	d_Lang083 =	Bir yedekleme dosyası tespit edilmiştir. Bunu açmak ister misiniz?
 	d_Lang084 =	Bir görev zamanlama önce değişiklikleri kaydedin.
-	d_Lang085 =	Makro deyimi 'Loop End' Eksik 
+	d_Lang085 =	Makro deyimi 'Loop End' Eksik
 	d_Lang086 =	Makro ifadesi "End If" Eksik
 	d_Lang087 =	Programın dışında komut yapılan değişiklikler hiçbir şekilde Makrolarınızı etkilemez dikkat edin.
 		Tato funkce je určena pouze k rychlému exportní funkce. PMC není navržen tak, aby editor AHK skript.
@@ -905,6 +907,7 @@
 	d_Lang101 =	Yinelenen işlev.
 	d_Lang102 =	Dogodila se pogreška. Možete poslati e-mail "pulover@macrocreator.com 's datoteku:
 	d_Lang103 =	Yeni diller dosya.
+		İndiriliyor?
 	d_Lang104 =	Bu mesaj aynı güncelleme için tekrar gösterilmeyecektir. Sen güncelleştirmeleri denetleyin > Yardım menüsünden indirebilirsiniz.
 	d_Lang105 =	Dosya başarıyla gönderildi. Teşekkür ederim!
 	d_Lang106 =	Dil dosyaları başarıyla güncellendi.
